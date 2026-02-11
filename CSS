@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My CSS Practice</title>
+
+    <style>
+        body {
+            background-color: lightblue;
+        }
+
+        h1 {
+            color: red;
+            text-align: center;
+        }
+
+        p {
+            color: green;
+            font-size: 20px;
+        }
+    </style>
+
+</head>
+<body>
+
+    <h1>Hello Mushfiqur</h1>
+    <p>I will become a Web Developer 💻</p>
+
+</body>
+</html>
